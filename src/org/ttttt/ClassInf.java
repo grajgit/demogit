@@ -8,6 +8,7 @@ System.out.println("shiva");
 private void traininf() {
 	// TODO Auto-generated method stub
 System.out.println("testing");
+System.out.println("text");
 }
 private void days() {
 	// TODO Auto-generated method stub
